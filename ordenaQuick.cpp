@@ -4,7 +4,7 @@
 using namespace std;
 // **************************
 // ** Programa Nro 6
-// ** Sandra Parra Ramírez 
+// ** Sandra Parra 
 // ** Ordenar Datos con Métodos Quicksort-Heapsort
 // ** Inluye:
 // ** 1.- Generación aleatoria de números de hasta 3 dígitos
